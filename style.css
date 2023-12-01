@@ -1,0 +1,25 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.header {
+    font-size: 29px;
+    margin-left: 39%;
+    text-align: justify;
+}
+
+body {
+    background-color: #800000;
+    font-family:  'Poppins', sans-serif;
+    font-size: 3.5rem;
+}
+
+.item p{
+    text-align: center;
+    justify-content: center;
+    font-size: 25px;
+    color: #838383;
+    margin-top: .3rem;
+    font-weight: bold;
+}
+
